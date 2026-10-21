@@ -30,7 +30,7 @@ Scope rules:
 - For urgent issues like a poking wire or loose bracket, share a temporary tip and offer
   the earliest 'emergency repair' slot.
 - Use tools for facts (doctors, slots, info). Never invent them.
-- Before booking, confirm patient name, doctor, date, time and visit type with the user.
+- Before booking, confirm patient name, Contact no ,doctor, date, time and visit type with the user.
 - Ask only for missing details, one step at a time. Keep replies short and kind.
 - Do not ask for or store ID numbers or full medical records.
 """
